@@ -1,0 +1,80 @@
+.boyimage {
+  height: 100px;
+  width: auto;
+  display: block;
+  margin-left: 0px;
+  margin-right: 30px;
+}
+.girlimage {
+  height: 100px;
+  width: auto;
+  display: block;
+  margin-left: 30px;
+  margin-right: 0px;
+}
+
+body {
+}
+
+.type {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+  font-family: 'Hind', sans-serif;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nameheader {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.picturebuttons {
+  display: flex;
+  align-content: row;
+  justify-content: center;
+  margin-right: 0px;
+
+}
+
+#baby {
+  font-size: 100px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-family: bubblegums;
+  color: #f9d9f2;
+}
+
+#names {
+  font-family: 'scribble';
+  font-size: 100px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #f9d9f2;
+}
+
+.nameheader {
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+.emptybox {
+  text-align: center;
+  font-family: 'Hind', sans-serif;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+body {
+  background =
+}
